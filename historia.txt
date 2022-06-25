@@ -1,0 +1,3 @@
+Este es la vida de gulliano 
+
+estamos aprendiendo a manejar git y github
